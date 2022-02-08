@@ -7,6 +7,7 @@
 - 🎓 I've completed my **B.Tech in Computer Science and Engineering** from **KIIT University, India**.
 - 🌱 I'm currently learning, a lot in the process, from [Coursera](https://www.coursera.org/), [PadhAI](https://padhai.onefourthlabs.in/), and [fast.ai](https://www.fast.ai/).
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
+- 🎯 My current passion is to learn anything and everything that falls on my lap.
 - 📌 Scroll down to see my **Pinned Repositories**.
 - 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/padamjung56/)
 
