@@ -1,13 +1,11 @@
 ### Hey there, I'm __Padam__! 👋 :computer:
 
-I'm **Padam Jung Thapa**, a **Deep Learning** and **Machine Learning** **Practitioner** and **Learner**. I'm here to solve things, Learning a lot in the Process.
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=padam56" alt="padam56" /> </p>
 
 **Updates:**
 
 - 🎓 I've completed my **B.Tech in Computer Science and Engineering** from **KIIT University, India**.
-- 🌱 I'm currently learning from [Coursera](https://www.coursera.org/), [PadhAI](https://padhai.onefourthlabs.in/), and [fast.ai](https://www.fast.ai/).
+- 🌱 I'm currently learning, a lot in the process, from [Coursera](https://www.coursera.org/), [PadhAI](https://padhai.onefourthlabs.in/), and [fast.ai](https://www.fast.ai/).
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
 - 📌 Scroll down to see my **Pinned Repositories**.
 - 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/padamjung56/)
