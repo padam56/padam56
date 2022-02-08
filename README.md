@@ -2,7 +2,7 @@
 
 I'm **Padam Jung Thapa**, a **Deep Learning** and **Machine Learning** **Practitioner** and **Learner**. I'm here to solve things, Learning a lot in the Process.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThinamXx" alt="ThinamXx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=padam56" alt="padam56" /> </p>
 
 **Updates:**
 
