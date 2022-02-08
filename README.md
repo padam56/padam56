@@ -22,9 +22,3 @@
 <a href="https://github.com/padam56">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=padam56&show_icons=true&line_height=27&hide=contribs,prs,issues&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Padam's GitHub Stats" />
 </a>
-
-
-## **Language and Tools**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=padam56&theme=radical)
-![Padam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=padam56&hide=prs,issues,contribs?username=padam56&count_private=true?username=padam56&show_icons=true&theme=radical)
