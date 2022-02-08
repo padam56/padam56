@@ -7,7 +7,7 @@ I'm **Padam Jung Thapa**, a **Deep Learning** and **Machine Learning** **Practit
 **Updates:**
 
 - 🎓 I've completed my **B.Tech in Computer Science and Engineering** from **KIIT University, India**.
-- 🌱 I'm currently learning from [Coursera](https://www.coursera.org/), [PadhAI](https://padhai.onefourthlabs.in/), and [fast.ai](fast.ai).
+- 🌱 I'm currently learning from [Coursera](https://www.coursera.org/), [PadhAI](https://padhai.onefourthlabs.in/), and [fast.ai](https://www.fast.ai/).
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
 - 📌 Scroll down to see my **Pinned Repositories**.
 - 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/padamjung56/)
