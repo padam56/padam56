@@ -11,7 +11,7 @@
 - 📫 How to reach me: [padamjungthapa56@gmail.com](padamjungthapa56@gmail.com)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/padamjung56//)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%20-red)](https://padam56@github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%20-red)](https://padam56.github.io/)
 [![Résumé](https://img.shields.io/badge/Résumé%2FCV-%20-brightgreen)](https://github.com/padam56/padam56.github.io/blob/main/PadamResume.pdf)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%20-blue)](https://www.kaggle.com/padamjungthapa56)
 <p align="left"><img src="https://komarev.com/ghpvc/?username=padam56" alt="padam56"/></p>
