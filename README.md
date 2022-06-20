@@ -16,11 +16,3 @@
 [![Résumé](https://img.shields.io/badge/Résumé%2FCV-%20-brightgreen)](https://github.com/padam56/padam56.github.io/blob/main/PadamResume.pdf)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%20-blue)](https://www.kaggle.com/padamjungthapa56)
 <p align="left"><img src="https://komarev.com/ghpvc/?username=padam56" alt="padam56"/></p>
-
-### GitHub Stats
-<a href="https://github.com/padam56">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padam56&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Padam's Programming Language Stats" />
-</a>
-<a href="https://github.com/padam56">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=padam56&show_icons=true&line_height=27&hide=contribs,prs,issues&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Padam's GitHub Stats" />
-</a>
