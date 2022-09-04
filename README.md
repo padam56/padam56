@@ -2,7 +2,7 @@
 
 **Updates:**
 
-- 🎓 I'm a graduate computer science student at University of South Dakota.
+- 🎓 I'm a graduate Computer Science student at **University of South Dakota**.
 - 🎓 I've completed my **B.Tech in Computer Science and Engineering** from **KIIT University, India**.
 - 🌱 I'm currently learning, a lot in the process, from [Coursera](https://www.coursera.org/), [PadhAI](https://padhai.onefourthlabs.in/), and [fast.ai](https://www.fast.ai/).
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
