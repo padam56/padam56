@@ -11,7 +11,7 @@
 - 📌 Scroll down to see my **Pinned Repositories**.
 - 📫 How to reach me: [tpadamjung@gmail.com](tpadamjung@gmail.com)
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/padamjung56//)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/padamjung/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%20-red)](https://www.padamjungthapa.com.np/)
 [![Tableau](https://img.shields.io/badge/Tableau-%20-orange)](https://public.tableau.com/app/profile/padam.jung.thapa)
 [![Résumé](https://img.shields.io/badge/Résumé%2FCV-%20-brightgreen)](https://github.com/padam56/padam56.github.io/blob/main/PadamResume.pdf)
