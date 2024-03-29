@@ -9,7 +9,7 @@
 - 🎯 My current passion is to learn anything and everything that falls on my lap.
 - ⚡ Fun fact I play Table Tennis, Foosball, and love cubing!
 - 📌 Scroll down to see my **Pinned Repositories**.
-- 📫 How to reach me: [tpadamjung@gmail.com](tpadamjung@gmail.com)
+- 📫 How to reach me: [pthapa@uno.edu](pthapa@uno.edu)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/padamjung/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%20-red)](https://www.padamjungthapa.com.np/)
