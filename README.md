@@ -1,8 +1,9 @@
 ### Hey there, I'm __Padam__! 👋 :computer:
 
 **Updates:**
-
+- 🎓 I hold a **Master’s in Computer Science** from the **University of New Orleans**.
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
+- 🌱 I’m currently learning High Level System Design and solving interesting technical problems.
 - 🎯 My current passion is to learn anything and everything that falls on my lap.
 - ⚡ Fun fact I play Table Tennis, Foosball, and love cubing!
 - 📌 Scroll down to see my **Pinned Repositories**.
